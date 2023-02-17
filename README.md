@@ -2,4 +2,4 @@
 
 Question 6 of Vocabulary quiz for UBC MDS DSCI532 week1
 
-Also available at ['First_Shiny_App'](https://cchchechen.shinyapps.io/First_Shiny_App/)
+Also available at [First_Shiny_App](https://cchchechen.shinyapps.io/First_Shiny_App/)
